@@ -27,4 +27,4 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * **As shown from the Pivot Table- The lowest earners were Andrea Bocelli(Klassics Music Management Limited), Post Malone(United Talent Agency), Phish(Wassernan Music), Queen + Adam Lambert(Creative Artists Agency), and Dave Matthews Band(Wasserman Music).**
 
-**Question 2: Which agency experienced the highest percentage increase in the past four years?** 
+**Question 2: Which agencies in the top 10 musical tours grossed the highest in the past four years?** 
