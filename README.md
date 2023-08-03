@@ -47,9 +47,9 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 ![Question 2 Pivot table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/69b3092f-42b4-4a48-a2ec-b1efebdaf0c3) 
 
-* **As shown in the Pivot Table, the top five agencies that grossed the most money in the past five years is _United Talent Agency_($358,500,000)--_Marshall Arts_(215,200,000)--_Howard Rose/Rocket Music Ent. Grp._(212,000,000)--_Creative Artists Agency_(211,700,000)-and-_The Howard Rose Agency_(201,800,000).**
+* **As shown in the Pivot Table, the top five agencies that grossed the most money in the past 4 years is _United Talent Agency_($358,500,000)--_Marshall Arts_(215,200,000)--_Howard Rose/Rocket Music Ent. Grp._(212,000,000)--_Creative Artists Agency_(211,700,000)-and-_The Howard Rose Agency_(201,800,000).**
 
-  **Question 3: Which three genres of music are most consistent in the top 10 muscial tours of the past 5 years.**
+**Question 3: Which two genres of music are most consistent in the top 10 muscial tours of the past 4 years.**
 
   **Step By Step Answer**
 
@@ -61,9 +61,9 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 * The Pivot Table should look like this.
 ![Question 3 Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/736b7f0c-da42-44eb-9cf6-942db6f7fcea)
 
-* **As shown in the Pivot Table, the top 2 genres of music in the top 10 musical tours of the past 5 years are _Rock_(21) and _Pop_(11)**
+* **As shown in the Pivot Table, the top 2 genres of music in the top 10 musical tours of the past 4 years are _Rock_(21) and _Pop_(11)**
 
-**Question 4: Which musical tour/artist has the highest average ticket price in the last 5 years?** 
+**Question 4: Which musical tour/artist has the highest average ticket price in the last 4 years?** 
 
 **Step By Step Answer** 
 
@@ -72,9 +72,36 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 3. Add **Average Ticket Price** to the _Values_ tab.
 4. On the _Values_ tab click on "Summarize by AVERAGE"
 
+* The Pivot Table should look like this.
+
 ![Question 4 Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/e815f5d6-695b-4bc6-bda3-d97f87f70455) 
 
 * **As show in the Pivot Table, the highest _Average Ticket Price_ for an artist goes to _Dead & Company_ with an average of $256.63 per ticket.**
 
-**Question 5: 
+**Question 5: Which Artist and Agency had the highest average tickets sold in the past 4 years?** 
+
+1. Create a Pivot Table
+2. Add **Artist** to the _Rows_ tab.
+3. Add **Average Tickets Sold** to the _Values_ tab.
+4. On the _Values_ tab click on "Summarize By Average".
+
+* The Pivot Table should look like this.
+
+![Question 5a Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/0c5a6c90-85ad-4bf6-9bc0-abb1dea79eae) 
+
+* **As shown in the Pivot Table, the artist with the highest average tickets sold in the past 4 years is Ed Sheeran with an average of 48,151 tickets sold.**
+* Finding the Agency with Highest average tickets sold.
+
+1. Create Pivot Table
+2. Add **Agency** to the _Rows_ tab.
+3. Add **Average Tickets Sold** to the _Values_ tab.
+4. On the _Values_ tab click on "Summarize by Average".
+
+* The Pivot Table should look like this.
+
+![Question 5b Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/835d66df-8b2f-4b63-ad48-4b95bf219e92) 
+
+* **As shown in the Pivot Table, the Agency with the highest average tickets sold in the past 4 years is Conerts West with 46,047 average tickets sold.** 
+
+
 
