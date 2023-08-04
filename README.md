@@ -5,7 +5,7 @@
 
 _5 Questions with Step by Step Answers on the following Data Sheet_ 
 
-**Question 1: Based on the provided Datasheet, which Artists/Record Agency are in the Top 5 grossing musical tours in the past four years? Which Artists/Record Agency are in the lowest 5 grossing musical tours? Include a screenshot of a pivot table.** 
+**Question 1: Based on the provided Datasheet, which Artists/Record Agency are in the Top 5 grossing musical tours of the past four years? Which Artists/Record Agency are in the lowest 5 grossing musical tours? Include a screenshot of a pivot table.** 
 
 **Step by Step Answer** 
 
@@ -78,19 +78,19 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * **As show in the Pivot Table, the highest _Average Ticket Price_ for an artist goes to _Dead & Company_ with an average of $256.63 per ticket.**
 
-**Question 5: Which Artist and Agency had the highest average tickets sold in the past 4 years?** 
+**Question 5: Which 5 Artists and Agency had the highest average tickets sold in the past 4 years?** 
 
 1. Create a Pivot Table
 2. Add **Artist** to the _Rows_ tab.
 3. Add **Average Tickets Sold** to the _Values_ tab.
 4. On the _Values_ tab click on "Summarize By Average".
 
-* The Pivot Table should look like this.
+* The Pivot Table should look like this. 
 
 ![Question 5a Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/0c5a6c90-85ad-4bf6-9bc0-abb1dea79eae) 
 
-* **As shown in the Pivot Table, the artist with the highest average tickets sold in the past 4 years is Ed Sheeran with an average of 48,151 tickets sold.**
-* Finding the Agency with Highest average tickets sold.
+* **As shown in the Pivot Table, the artists with the highest average tickets sold in the past 4 years are Ed Sheeran(48,151)--The Weekend(47,404)-- Garth Brooks(46,865)--The Rolling Stones(46,047)-and-Bon Jovi(42,286)** 
+* Finding the 5 Agencies with Highest average tickets sold.
 
 1. Create Pivot Table
 2. Add **Agency** to the _Rows_ tab.
@@ -101,7 +101,11 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 ![Question 5b Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/835d66df-8b2f-4b63-ad48-4b95bf219e92) 
 
-* **As shown in the Pivot Table, the Agency with the highest average tickets sold in the past 4 years is Conerts West with 46,047 average tickets sold.** 
+* **As shown in the Pivot Table, the 5 Agencies with the highest average tickets sold in the past 4 years are Big Hit Entertainment(40,434)--MNS2(39,705)--Live Nation Global Touring(40,434)-and-Creative Artists Agency(27,010)**
+
+### Story Summary and Sourcing 
+
+
 
 
 
