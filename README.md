@@ -103,7 +103,32 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * **As shown in the Pivot Table, the 5 Agencies with the highest average tickets sold in the past 4 years are Big Hit Entertainment(40,434)--MNS2(39,705)--Live Nation Global Touring(40,434)-and-Creative Artists Agency(27,010)**
 
+**Question 6: Which genre has made the most money in the past 4 years?** 
+
+1. Create a Pivot Table
+2. Add **Gross/Millions** to the _Values_ tab.
+3. Add **Genre of Music** to the _Rows_ tab.
+
+* The Pivot Table should look like this.
+
+<img width="871" alt="Question 6 Pivot Table " src="https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/498ccbcb-53e9-4d11-8ae9-92d824e443d0"> 
+
+* **As showin in the Pivot Table, the genre of music that has made the most money in the past 4 years is Rock with $2,095,900,000.** 
+
+
 ### Story Summary and Sourcing 
+
+The goal with this data is  to illustrate that the genre of Rock is not “dead” despite articles by well-known music magazines/organizations saying it is. Based off the data from the trade publication Pollstar the genre of Rock is still represented in the top 10 grossing musical tours of all time in the past four years. Moreover, the genre of Rock is the most prevalent in the highest average tickets sold , average ticket price, and  in the genre of the artist. 
+
+The Article [_Rock ‘N’ Roll Is Dead. No, Really This Time_ by _Forbes_](https://www.forbes.com/sites/dannyross1/2017/03/20/rock-n-roll-is-dead-no-really-this-time/?sh=3fb4ac564ded) magazine presents data that shows that the genre of Rock is dead, based on the genre’s relevance in modern day streaming sales. Although this article presents valid data and opinions on the state of Rock as a genre, Forbes is neglecting to acknowledge that the genre of Rock is still outperforming other genres such as Pop and Hip Hop/Rap. Additionally, Rock and Rock artists have been consistently in the top 10 and top 5 highest grossing musical tours in the past four years. For this story I will be interviewing Danny Ross (Twitter @dannyrossmusic) from Forbes Music to get his opinion on the data from the last 4 years and whether they still agree with the notion that ‘Rock is Dead’  while being presented the data from Pollstar. 
+
+Moreover, in the article [_Is Rock ‘n’ Roll Dead, or Just Old?_ by Bill Flanagan](https://www.nytimes.com/2016/11/20/opinion/sunday/is-rock-n-roll-dead-or-just-old.html), Flanagan takes a similar approach to the Forbes article stating that the Rock genre is dying in terms of growing record sales and radio play. He claims that Rock is coming to an end because the new generation are taking over the sound waves in terms of streaming, radio, and record sales. I would like to interview Bill Flanagan (Twitter @BillFlanagan) because I believe he would provide good insight when given the data that shows that the genre of Rock still dominating the musical tour spectrum of the business. 
+
+### Data Visualizations 
+
+_The Following is a bar chart that illustrates how much money the genres, found in the Top 10 musical tours, have made in the past 4 years._ 
+
+![FftpR-profit-based-on-genre-over-the-past-4-years](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/a4d09397-863f-4ec3-8805-925bd224ab9e)
 
 
 
