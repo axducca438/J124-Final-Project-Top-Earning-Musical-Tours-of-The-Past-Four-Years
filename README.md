@@ -1,7 +1,7 @@
 # Top-Earning-Musical-Tours-2-in-The-Past-Four-Years 
 ## By Alex Ducca 
 ### Data Analysis Process
-* Download the [Top 10 Musical Tours of the Past 4 Years](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/blob/47f5565aecde8686b104df81297df4e85225ecd2/2022%20(2).xlsx) as an excel file and then open the file in google sheets. 
+* Download the [Top 10 Musical Tours of the Past 4 Years](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/blob/d40c1eedbebe700ad19cf75a5d4c9dda6bb3c1fa/Top%2010%20Musical%20Tours%20(2019-2022).xlsx) as an excel file and then open the file in google sheets. 
 
 _5 Questions with Step by Step Answers on the following Data Sheet_ 
 
