@@ -18,7 +18,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 7.  Add **Agency** to the _Columns_ tab. 
 
 * The Pivot Table should look like this.
- ![Pivot table 1 for queestion 1](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/cd8dbf34-f4ab-449b-ae0f-a05185bca4bc)
+ ![Pivot table 1 for queestion 1](/Question1PivotTable.png) 
 
 
  * **As shown from the Pivot Table- the top earners in the past 4 years were Elton John(Howard Rose/Rocket Music Ent.), Bad Bunny(United Talent Agency), The Rolling Stones(Concerts West), Harry Styles(Creative Artist Agency), and P!ink(Marshall Arts).**  
@@ -27,7 +27,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * The Pivot Table should look like this
 
-![Capture](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/ea55a3e3-101e-463b-8f18-ee93d9c70473)
+![Capture](/Question1APivotTable.png) 
 
 
 
@@ -45,7 +45,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 6. Checkmark the top 5 greatest values --**$358,500,000--$215,200,000--$212,000,000--$211,700,000--$201,800,000** 
 * The Pivot Table should look like this.
 
-![Question 2 Pivot table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/69b3092f-42b4-4a48-a2ec-b1efebdaf0c3) 
+![Question 2 Pivot table](/Question2PivotTable.png) 
 
 * **As shown in the Pivot Table, the top five agencies that grossed the most money in the past 4 years is _United Talent Agency_($358,500,000)--_Marshall Arts_(215,200,000)--_Howard Rose/Rocket Music Ent. Grp._(212,000,000)--_Creative Artists Agency_(211,700,000)-and-_The Howard Rose Agency_(201,800,000).**
 
@@ -59,7 +59,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
   4. On the _Value_ tab click on "Summarize by COUNTA".
 
 * The Pivot Table should look like this.
-![Question 3 Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/736b7f0c-da42-44eb-9cf6-942db6f7fcea)
+![Question 3 Pivot Table](/Question3PivotTable.png) 
 
 * **As shown in the Pivot Table, the top 2 genres of music in the top 10 musical tours of the past 4 years are _Rock_(21) and _Pop_(11)**
 
@@ -74,7 +74,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * The Pivot Table should look like this.
 
-![Question 4 Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/e815f5d6-695b-4bc6-bda3-d97f87f70455) 
+![Question 4 Pivot Table](/Question4PivotTable.png) 
 
 * **As show in the Pivot Table, the highest _Average Ticket Price_ for an artist goes to _Dead & Company_ with an average of $256.63 per ticket.**
 
@@ -87,7 +87,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * The Pivot Table should look like this. 
 
-![Question 5a Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/0c5a6c90-85ad-4bf6-9bc0-abb1dea79eae) 
+![Question 5a Pivot Table](/Question5PivotTable.png)
 
 * **As shown in the Pivot Table, the artists with the highest average tickets sold in the past 4 years are Ed Sheeran(48,151)--The Weekend(47,404)-- Garth Brooks(46,865)--The Rolling Stones(46,047)-and-Bon Jovi(42,286)** 
 * Finding the 5 Agencies with Highest average tickets sold.
@@ -99,7 +99,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * The Pivot Table should look like this.
 
-![Question 5b Pivot Table](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/835d66df-8b2f-4b63-ad48-4b95bf219e92) 
+![Question 5b Pivot Table](/Question5aPivotTable.png) 
 
 * **As shown in the Pivot Table, the 5 Agencies with the highest average tickets sold in the past 4 years are Big Hit Entertainment(40,434)--MNS2(39,705)--Live Nation Global Touring(40,434)-and-Creative Artists Agency(27,010)**
 
@@ -111,7 +111,7 @@ _5 Questions with Step by Step Answers on the following Data Sheet_
 
 * The Pivot Table should look like this.
 
-<img width="871" alt="Question 6 Pivot Table " src="https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/498ccbcb-53e9-4d11-8ae9-92d824e443d0"> 
+![Question6](/Question6PivotTable.png) 
 
 * **As showin in the Pivot Table, the genre of music that has made the most money in the past 4 years is Rock with $2,095,900,000.** 
 
