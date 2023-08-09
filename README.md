@@ -128,7 +128,7 @@ Moreover, in the article [_Is Rock ‘n’ Roll Dead, or Just Old?_ by Bill Flan
 
 _The Following is a bar chart that illustrates how much money the genres, found in the Top 10 musical tours, have made in the past 4 years._ 
 
-![FftpR-profit-based-on-genre-over-the-past-4-years](https://github.com/axducca438/Top-Earning-Musical-Tours-2-in-The-Past-Four-Years/assets/140102446/a4d09397-863f-4ec3-8805-925bd224ab9e)
+![DataViz](/DataViz.png) 
 
 
 
